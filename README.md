@@ -10,4 +10,4 @@ Feel free to create a PR to add more resources!
 
 ## Questions
 
-Portfolio: [anjalisharma.tech]() 
+Portfolio: [anjalisharma.tech](anjalisharma.tech) 
