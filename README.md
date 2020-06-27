@@ -7,8 +7,6 @@ Feel free to create a PR to add more resources!
 
 ## BigO
 
-## Questions
-
 ## Links
 
 ## References
